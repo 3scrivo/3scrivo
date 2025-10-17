@@ -1,6 +1,6 @@
 # Ciao 🎈
 
-Mi chiamo Ivan, vengo da Bergamo e sto attualmente studiando i fondamenti della programmazion e dell' Informatica presso l'Università di Milano.
+Mi chiamo Ivan, vengo da Bergamo e attualmente studio Informatica presso l'Università di Milano (UniMi)
 
 Nei prossimi mesi il mio obiettivo è leggere, imparare, esercitarmi e pubblicare diversi progetti volti all'apprendimento della programmazione orientata agli oggetti e dei Design Patterns.<br/>
 <br/>
